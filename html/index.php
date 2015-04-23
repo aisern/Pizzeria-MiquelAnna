@@ -5,7 +5,7 @@
 	<div class="col-sm-12">
 		<div class="jumbotron">
 			<h1 class="animate pizza-title">Pizzeria Happy :)</h1>
-			<p class="lead"> Les millors pizzes les fem per a tú... </p>
+			<p class="lead"> Les millors pizzes les fem per a tú Artur... </p>
 		</div>
 	</div>
 </div>
