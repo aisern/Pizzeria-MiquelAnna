@@ -7,7 +7,6 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="../img/favicon.ico">
-    <link rel="stylesheet" href="../css/estils.css" type="text/css" media="screen">
 
     <title>Pizzeria Happy</title>
 

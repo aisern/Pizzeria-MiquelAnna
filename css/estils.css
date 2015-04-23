@@ -60,3 +60,17 @@ body {
 
 
 
+td{
+        background-color: white;
+        padding: 5px;
+        padding-left: 15px;
+        padding-right: 15px;
+       
+    }
+    th{
+         text-align: center;
+    }
+    table {
+        background-color: #faf2cc;
+        // text-align: center;
+    }
