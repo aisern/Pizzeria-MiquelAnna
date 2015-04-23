@@ -6,7 +6,7 @@
 	<footer class="footer container">
 		<div class="row">
 			<div class="col-md-12">
-				<p class="text-muted">© Pizzeria Happy 2015</p>
+				<p class="text-muted">© Pizzeria Happy 2015 - Miquel i Anna</p>
 			</p>
 		</div>
     </footer>
