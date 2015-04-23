@@ -1,4 +1,4 @@
-
+<?php include("header.php") ?>
 <div class="row">
 	<?php
 $sx = simplexml_load_file('../data/pizzes.xml'); // Carrega el fitxer XML com un objecte 
