@@ -90,5 +90,11 @@
 	  <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> 972 20 21 22
 	</button>
 </a>
+</br></br></br>
+<center>
+<a href="http://www.facebook.com/cargoltreufarra"><img src="http://icons.iconarchive.com/icons/hopstarter/social-networking/128/Twitter-icon.png" border="0" width=50 height=50 ></a>
+<a href="http://www.twitter.com/cargoltreufarra"><img src="http://icons.iconarchive.com/icons/hopstarter/social-networking/128/Facebook-icon.png" border="0" width=50 height=50 ></a>
+</center>
+</br>
 	
 <?php include("footer.php") ?>
