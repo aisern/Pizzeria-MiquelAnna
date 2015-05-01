@@ -29,6 +29,7 @@
 
     <!-- Custom styles for this template -->
     <link href="../css/estils.css" rel="stylesheet">
+	<noscript>Your browser does not support JavaScript!</noscript>
 
   </head>
 
